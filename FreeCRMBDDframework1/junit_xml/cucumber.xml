@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="0.208361">
+<testcase classname="Free CRM application testing" name="Application close" time="0.208361">
+<system-out><![CDATA[Given This is a close browser test..........................................passed
+]]></system-out>
+</testcase>
+</testsuite>
